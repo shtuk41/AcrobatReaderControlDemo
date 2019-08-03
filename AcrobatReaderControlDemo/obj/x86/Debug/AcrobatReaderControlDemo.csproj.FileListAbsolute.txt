@@ -1,0 +1,13 @@
+C:\Users\u7ashtuk\Desktop\Files\AcrobatReaderControlDemo\AcrobatReaderControlDemo\bin\Debug\AcrobatReaderControlDemo.exe.config
+C:\Users\u7ashtuk\Desktop\Files\AcrobatReaderControlDemo\AcrobatReaderControlDemo\bin\Debug\AcrobatReaderControlDemo.exe
+C:\Users\u7ashtuk\Desktop\Files\AcrobatReaderControlDemo\AcrobatReaderControlDemo\bin\Debug\AcrobatReaderControlDemo.pdb
+C:\Users\u7ashtuk\Desktop\Files\AcrobatReaderControlDemo\AcrobatReaderControlDemo\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\u7ashtuk\Desktop\Files\AcrobatReaderControlDemo\AcrobatReaderControlDemo\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\u7ashtuk\Desktop\Files\AcrobatReaderControlDemo\AcrobatReaderControlDemo\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\u7ashtuk\Desktop\Files\AcrobatReaderControlDemo\AcrobatReaderControlDemo\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\u7ashtuk\Desktop\Files\AcrobatReaderControlDemo\AcrobatReaderControlDemo\obj\x86\Debug\AcrobatReaderControlDemo.csproj.ResolveComReference.cache
+C:\Users\u7ashtuk\Desktop\Files\AcrobatReaderControlDemo\AcrobatReaderControlDemo\obj\x86\Debug\AcrobatReaderControlDemo.Form1.resources
+C:\Users\u7ashtuk\Desktop\Files\AcrobatReaderControlDemo\AcrobatReaderControlDemo\obj\x86\Debug\AcrobatReaderControlDemo.Properties.Resources.resources
+C:\Users\u7ashtuk\Desktop\Files\AcrobatReaderControlDemo\AcrobatReaderControlDemo\obj\x86\Debug\AcrobatReaderControlDemo.csproj.GenerateResource.Cache
+C:\Users\u7ashtuk\Desktop\Files\AcrobatReaderControlDemo\AcrobatReaderControlDemo\obj\x86\Debug\AcrobatReaderControlDemo.exe
+C:\Users\u7ashtuk\Desktop\Files\AcrobatReaderControlDemo\AcrobatReaderControlDemo\obj\x86\Debug\AcrobatReaderControlDemo.pdb
